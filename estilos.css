@@ -1,0 +1,154 @@
+/*Aqui estão os Estilos em comum para todas ou algumas Seções*/
+
+.estilo-geral {
+    width: 600;
+    text-align: center;
+    margin: 30px auto;
+    padding-bottom: 10px;
+    font-family: Tahoma;
+}
+
+.destaque-texto {
+    color: #14bdf5;
+    font-weight: bold;
+}
+
+h2,
+.destaque-texto {
+    font-size: 21px;
+}
+
+div .imagem-conteudo {
+    width: 500px;
+}
+
+div p {
+    font-size: 18px;
+}
+
+div .destaque-azul {
+    color: #14a3e6;
+}
+
+
+.fundo-azul {
+    background-color: #11b5e7f1;
+}
+
+.destaque-branco {
+    color: white;
+}
+
+ul {
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    margin-left: 600px;
+    padding-bottom: 20px;
+}
+
+/*Fim dos Estilos em comum para todas ou algumas Seções*/
+
+/*Inicio Estilos Topo*/
+
+.topo {
+    background-color: #88daf8;
+}
+
+.imagem-topo {
+    width: 200px;
+    background-color: #f2f8fa;
+    margin-top: 8px;
+}
+
+.link-topo {
+    margin-left: 10px;
+    color: black;
+}
+
+/*Fim Estilos Topo*/
+
+/*Inicio Estilos Sobre*/
+
+/*Não foi preciso colocar estilos especificos*/
+
+/* Fim Estilos Sobre*/
+
+/* Inicio Estilos Serviços*/
+
+.servicos {
+    width: 600;
+    text-align: center;
+    padding: 15px 10px;
+    font-family: Tahoma;
+
+}
+
+p .destaque-amarelo {
+    color: yellow;
+}
+
+.fundo-azul p {
+    margin: auto 50px;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.fundo-azul ul {
+    font-size: 20px;
+}
+
+/*Fim Estilos Serviços */
+
+/*Inicio Estilos Seção Corretores */
+
+div .margem-corretores {
+    margin: auto 50px;
+}
+
+/*Fim dos Estilos Seção Corretores*/
+
+/*Inicio Seção Contato*/
+
+.espacamento {
+    padding-top: 10px;
+}
+
+div .fonte {
+    font-size: 20px;
+    background-color: black;
+    border: 20px;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+div .fundo {
+    background-color: #f2f8fa;
+}
+
+div .margem {
+    text-align: center;
+}
+
+div .fundo1 {
+    background-color: #f2f8fa;
+    padding: 0;
+    margin: 20px 560px;
+    font-size: 18px;
+}
+
+div .fundo2 {
+    background-color: #f2f8fa;
+    padding: 0;
+    margin: 20px 580px;
+    font-size: 18px;
+}
+
+div .fundo3 {
+    background-color: #f2f8fa;
+    padding: 0;
+    margin: 20px 600px;
+    font-size: 18px;
+}
